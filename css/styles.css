@@ -253,3 +253,17 @@
     font-weight: 10px;
     font-style: normal;
 }
+.tituloo{
+    margin-top: 5vh;
+    margin-left: 5vh;
+}
+
+.tituloo h1 {
+    font-size: 10vh;
+    text-shadow: 3px 3px 7px white;
+}
+
+.lorem{
+    margin-top: 2vh;
+    margin-left: 5vh;
+}
