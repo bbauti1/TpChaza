@@ -226,7 +226,6 @@
 }
 .ic3{
     display: flex;
-
     align-items: center;
     width: 135px;
 }
@@ -244,6 +243,7 @@
 
 .f9{
     display: flex;
+    padding-left: 5px;
     font-size: 30px;
 }
 
